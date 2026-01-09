@@ -272,6 +272,7 @@ General rules for real notes:
   Line 3: date: YYYY-MM-DD
   Line 4: tags: []
   Line 5: ---
+Remember to add the actual title of the note into the title in YAML.
 
 - System notes in 000_system/ and raw assets in 222_assets/ do NOT require YAML unless explicitly requested.
 
