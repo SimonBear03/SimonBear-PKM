@@ -1,3 +1,9 @@
+---
+title: ""
+date: YYYY-MM-DD
+tags: []
+---
+
 # <replace_with_clear_title>
 
 ## summary

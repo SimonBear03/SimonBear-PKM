@@ -1,0 +1,31 @@
+
+
+---
+title: "PKM vault foundations + AI workflows"
+date: 2026-01-09
+tags: [pkm, ai_memory, simonbear]
+---
+
+# 2026-01-09 – daily_ai
+
+## focus_of_the_day
+- Laying the foundations for the SimonBear PKM vault, with AI-first workflows for journaling, daily logs, and wikilink-heavy notes.
+
+## work_summary
+- Refined the overall purpose of the vault as a long-term, local-first second brain ([[vault_readme]]), with clear roles for [[888_inbox]], [[910_projects]], [[920_content]], [[999_library]], [[111_logs]], and [[333_journal]].
+- Clarified how AI should operate inside the vault via [[AGENTS]], including folder conventions, minimal YAML (title, date, tags) for real notes, and strong preferences for using wikilinks to weave the graph.
+- Adjusted the journal flow so that personal reflections live in [[333_journal]] as human-facing entries, while 111_logs/daily entries like this one act as compact, structural memory for work and navigation.
+- Started designing AI-first templates for journaling and daily logs (journal and daily_ai templates) that include ai_instructions blocks, so future agents can ask adaptive questions and then write notes in a consistent structure.
+- Updated today’s journal entry ([[2026-01-09_journal]]) to add key wikilinks to system notes and templates (for example [[home]], [[vault_readme]], [[AGENTS]], [[inbox_research_template]], [[library_note_template]]), helping the graph begin to form around PKM setup.
+
+## key_decisions
+- All "real" notes in 111/333/888/910/920/999 will use minimal YAML frontmatter with only `title`, `date`, and `tags`, keeping things simple but future-proof for a web UI.
+- 333_journal is reserved for human, emotional, personal reflection; 111_logs/daily is reserved for AI memory and structural summaries, with far less sensitive content.
+- AI agents should aggressively but sensibly add wikilinks when editing or creating notes, focusing on projects, recurring concepts, and cross-references between inbox, library, projects, and logs.
+
+## notable_notes
+- [[2026-01-09_journal]] – first journal entry reflecting on the creation of the SimonBear PKM vault and its structure.
+- [[vault_readme]] – defines the high-level folder structure and basic workflow for capture → distill → use.
+- [[AGENTS]] – central ruleset for how AI agents should behave inside the vault, including wikilink usage and YAML expectations.
+- [[inbox_research_template]] – template for structuring research and chat exports in 888_inbox (referenced today as part of PKM setup).
+- [[library_note_template]] – template for distilled knowledge notes in 999_library, which will become the backbone of long-term concepts (also referenced in today’s setup).

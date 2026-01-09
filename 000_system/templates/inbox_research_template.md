@@ -1,3 +1,9 @@
+---
+title: ""
+date: YYYY-MM-DD
+tags: []
+---
+
 # <topic> – inbox_research
 
 ## context
